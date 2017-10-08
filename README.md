@@ -1,6 +1,6 @@
 # storage
 
-Simple smart contract for capstone project.
+Simple smart contract.
 
 Query for an unsigned integer and store it.
 
