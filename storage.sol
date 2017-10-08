@@ -1,6 +1,6 @@
 pragma solidity ^0.4.0;
 
-/* A simple smart contract that will query the user to enter for an unsigned
+/* A simple smart contract that will query the user to enter an unsigned
 integer and the output will be stored */
 
 // The construct
